@@ -1,0 +1,1 @@
+update tb_aluno set nota=nota-1 where matricula<7

@@ -1,0 +1,1 @@
+select* from tb_produto where preco >=3.00 and preco <=60
